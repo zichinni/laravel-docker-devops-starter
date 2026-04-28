@@ -6,4 +6,4 @@ src/.env.*
 
 !src/.env.example
 
-.git
+.git.DS_Store
